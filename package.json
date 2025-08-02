@@ -3,13 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
+  "homepage": "https://Vaishu0805.github.io/reactcicd",
+"scripts": {
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
   "deploy": "gh-pages -d dist"
 },
-"homepage": "https://Vaishu0805.github.io/reactcicd",
+
 
   "dependencies": {
     "react": "^19.1.0",
